@@ -22,6 +22,9 @@
     <link rel="stylesheet" href="{{ url('css/owl.carousel.min.css', []) }}" type="text/css">
     <link rel="stylesheet" href="{{ url('css/slicknav.min.css', []) }}" type="text/css">
     <link rel="stylesheet" href="{{ url('css/style.css', []) }}" type="text/css">
+    <meta name="google-adsense-account" content="ca-pub-4154628728879232">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4154628728879232"
+     crossorigin="anonymous"></script>
 </head>
 
 <body>
