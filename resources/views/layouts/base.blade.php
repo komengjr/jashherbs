@@ -25,6 +25,7 @@
     <meta name="google-adsense-account" content="ca-pub-4154628728879232">
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4154628728879232"
      crossorigin="anonymous"></script>
+     <script src="https://pl28480967.effectivegatecpm.com/eb/2d/a2/eb2da2be81d51cd8ad7eac1dc9db595a.js"></script>
 </head>
 
 <body>

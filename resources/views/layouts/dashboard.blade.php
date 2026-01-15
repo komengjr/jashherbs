@@ -27,7 +27,7 @@
     <link href="assets/css/app-style.css" rel="stylesheet" />
     <script src="assets/js/jquery.min.js"></script>
 
-
+    <script src="https://pl28480967.effectivegatecpm.com/eb/2d/a2/eb2da2be81d51cd8ad7eac1dc9db595a.js"></script>
 </head>
 
 <body>

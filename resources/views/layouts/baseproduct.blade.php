@@ -22,6 +22,7 @@
     <link rel="stylesheet" href="{{ url('css/owl.carousel.min.css', []) }}" type="text/css">
     <link rel="stylesheet" href="{{ url('css/slicknav.min.css', []) }}" type="text/css">
     <link rel="stylesheet" href="{{ url('css/style.css', []) }}" type="text/css">
+    <script src="https://pl28480967.effectivegatecpm.com/eb/2d/a2/eb2da2be81d51cd8ad7eac1dc9db595a.js"></script>
 </head>
 
 <body>
