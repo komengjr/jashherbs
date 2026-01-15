@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="{{ url('css/slicknav.min.css', []) }}" type="text/css">
     <link rel="stylesheet" href="{{ url('css/style.css', []) }}" type="text/css">
     <script src="https://pl28480967.effectivegatecpm.com/eb/2d/a2/eb2da2be81d51cd8ad7eac1dc9db595a.js"></script>
+    <script async="async" data-cfasync="false" src="https://pl28480975.effectivegatecpm.com/e16141f8a09725cccc1037098fd6b743/invoke.js"></script>
 </head>
 
 <body>
@@ -194,20 +195,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
-                    <div class="footer__widget">
-                        <h6>Join Our Newsletter Now</h6>
-                        <p>Get E-mail updates about our latest shop and special offers.</p>
-                        <form action="#">
-                            <input type="text" placeholder="Enter your mail">
-                            <button type="submit" class="site-btn">Subscribe</button>
-                        </form>
-                        <div class="footer__widget__social">
-                            <a href="https://www.facebook.com/profile.php?id=100086603481742&mibextid=LQQJ4d"><i class="fa fa-facebook"></i></a>
-                            <a href="https://instagram.com/jashherbsorganic?igshid=YmMyMTA2M2Y="><i class="fa fa-instagram"></i></a>
-                            <a href="https://www.linkedin.com/in/jash-herbs-5614b4244"><i class="fa fa-linkedin"></i></a>
-                            {{-- <a href="#"><i class="fa fa-pinterest"></i></a> --}}
-                        </div>
-                    </div>
+                    <div id="container-e16141f8a09725cccc1037098fd6b743"></div>
                 </div>
             </div>
             <div class="row">

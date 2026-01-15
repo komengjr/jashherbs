@@ -28,6 +28,7 @@
     <script src="assets/js/jquery.min.js"></script>
 
     <script src="https://pl28480967.effectivegatecpm.com/eb/2d/a2/eb2da2be81d51cd8ad7eac1dc9db595a.js"></script>
+    <script async="async" data-cfasync="false" src="https://pl28480975.effectivegatecpm.com/e16141f8a09725cccc1037098fd6b743/invoke.js"></script>
 </head>
 
 <body>
